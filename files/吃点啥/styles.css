@@ -378,7 +378,7 @@
 #u20 {
   position:absolute;
   left:67px;
-  top:440px;
+  top:390px;
   width:62px;
   height:22px;
   font-size:18px;
@@ -398,7 +398,7 @@
 #u22 {
   position:absolute;
   left:149px;
-  top:440px;
+  top:390px;
   width:100px;
   height:22px;
   font-size:18px;
@@ -418,7 +418,7 @@
 #u24 {
   position:absolute;
   left:67px;
-  top:482px;
+  top:432px;
   width:62px;
   height:22px;
   font-size:18px;
@@ -438,7 +438,7 @@
 #u26 {
   position:absolute;
   left:149px;
-  top:482px;
+  top:432px;
   width:100px;
   height:22px;
   font-size:18px;
@@ -458,7 +458,7 @@
 #u28 {
   position:absolute;
   left:67px;
-  top:524px;
+  top:474px;
   width:62px;
   height:22px;
   font-size:18px;
@@ -478,7 +478,7 @@
 #u30 {
   position:absolute;
   left:149px;
-  top:524px;
+  top:474px;
   width:68px;
   height:22px;
   font-size:18px;
@@ -498,7 +498,7 @@
 #u32 {
   position:absolute;
   left:237px;
-  top:524px;
+  top:474px;
   width:105px;
   height:22px;
   font-size:18px;
@@ -536,7 +536,7 @@
 #u34 {
   position:absolute;
   left:109px;
-  top:570px;
+  top:520px;
   width:140px;
   height:40px;
   font-family:'Arial Negreta', 'Arial';
@@ -569,7 +569,7 @@
 #u36 {
   position:absolute;
   left:20px;
-  top:440px;
+  top:390px;
   width:37px;
   height:22px;
   font-size:18px;
@@ -599,7 +599,7 @@
 #u38 {
   position:absolute;
   left:20px;
-  top:482px;
+  top:432px;
   width:37px;
   height:22px;
   font-size:18px;
@@ -629,7 +629,7 @@
 #u40 {
   position:absolute;
   left:20px;
-  top:524px;
+  top:474px;
   width:37px;
   height:22px;
   font-size:18px;
@@ -646,7 +646,7 @@
   left:0px;
   top:0px;
   width:320px;
-  height:360px;
+  height:310px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -663,12 +663,12 @@
   left:20px;
   top:60px;
   width:320px;
-  height:360px;
+  height:310px;
 }
 #u43 {
   position:absolute;
   left:2px;
-  top:172px;
+  top:147px;
   width:316px;
   visibility:hidden;
   word-wrap:break-word;
@@ -726,7 +726,7 @@
 #u44 {
   position:absolute;
   left:79px;
-  top:92px;
+  top:85px;
   width:220px;
   height:40px;
   background:inherit;
@@ -787,7 +787,7 @@
 #u47 {
   position:absolute;
   left:79px;
-  top:131px;
+  top:124px;
   width:220px;
   height:40px;
   background:inherit;
@@ -848,7 +848,7 @@
 #u50 {
   position:absolute;
   left:79px;
-  top:201px;
+  top:194px;
   width:220px;
   height:40px;
   background:inherit;
@@ -909,7 +909,7 @@
 #u53 {
   position:absolute;
   left:79px;
-  top:240px;
+  top:233px;
   width:220px;
   height:40px;
   background:inherit;
@@ -967,7 +967,7 @@
 #u56 {
   position:absolute;
   left:79px;
-  top:310px;
+  top:303px;
   width:220px;
   height:40px;
   background:inherit;
@@ -988,15 +988,23 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:18px;
+  color:#FF6666;
 }
 #u59 {
   position:absolute;
   left:40px;
-  top:120px;
+  top:113px;
   width:19px;
   height:22px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:18px;
+  color:#FF6666;
 }
 #u60 {
   position:absolute;
@@ -1018,15 +1026,23 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:18px;
+  color:#33CC66;
 }
 #u61 {
   position:absolute;
   left:40px;
-  top:229px;
+  top:222px;
   width:19px;
   height:22px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:18px;
+  color:#33CC66;
 }
 #u62 {
   position:absolute;
@@ -1048,14 +1064,20 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:18px;
 }
 #u63 {
   position:absolute;
   left:40px;
-  top:319px;
+  top:312px;
   width:19px;
   height:22px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:18px;
 }
 #u64 {
